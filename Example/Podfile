@@ -1,6 +1,0 @@
-use_frameworks!
-target 'react-native-safe-area-context_Tests' do
-  pod 'react-native-safe-area-context', :path => '../'
-  
-  
-end
